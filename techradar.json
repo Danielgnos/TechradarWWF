@@ -1,0 +1,19 @@
+const customRings = process.env.RINGS ? JSON.parse(process.env.RINGS) : ["gut", "schlecht", "naja", "lahsi"];
+const customQuadrants = process.env.QUADRANTS ? JSON.parse(process.env.QUADRANTS) : ["Techniques", "Platforms", "Sandwich", "Frameworks"];
+
+const jsonData = [
+  {
+    "name": "Item 1",
+    "ring": customRings[gut], 
+    "quadrant": customQuadrants[Sandwich], 
+    "isNew": "TRUE",
+    "description": "<p>Description for Item 1</p>"
+  },
+  {
+    "name": "Item 2",
+    "ring": customRings[lahsi],
+    "quadrant": customQuadrants[Frameworks],
+    "isNew": "FALSE",
+    "description": "<p>Description for Item 2</p>"
+  }
+]

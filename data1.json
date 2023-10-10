@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Path-to-production mapping",
+    "ring": "WWF",       
+    "quadrant": "Administration",    
+    "isNew": "TRUE",
+    "description": "<p>Although <strong>path-to-production mapping</strong> has been a near-universal practice at Thoughtworks..."
+  },
+  {
+    "name": "Component visual regression testing",
+    "ring": "unwichtig",       
+    "quadrant": "marketing",   
+    "isNew": "FALSE",
+    "description": "<p><a href=\"/radar/tools/visual-regression-testing-tools\">Visual regression testing</a> is a useful and powerful tool..."
+  },
+]

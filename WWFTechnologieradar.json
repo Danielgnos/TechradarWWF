@@ -1,0 +1,23 @@
+[[
+  {
+    "name": "Remote Sensing",
+    "ring": "Adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "<p>Die Fernerkundung (englisch: remote sensing) ist <strong>die Gesamtheit der Verfahren zur Gewinnung von Informationen über die Erdoberfläche oder andere nicht direkt zugängliche Objekte durch Messung und Interpretation der von ihnen ausgehenden (Energie-)Felder<strong>. Als Informationsträger dient dabei die reflektierte oder emittierte elektromagnetische Strahlung.</p>"
+  },
+  {
+    "name": "Blockchain",
+    "ring": "Hold",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "description": "<p>Eine Blockchain ist ein gemeinsam genutztes, nicht veränderbares Ledger für die Aufzeichnung von Transaktionen, die Verfolgung von Assets und die Schaffung von Vertrauen.<p>"
+  },
+  {
+    "name": "Generative AI",
+    "ring": "Trial",
+    "quadrant": "Tools",
+    "isNew": "TRUE",
+    "description": "<p>Generative AI (Artificial Intelligence) ist eine <strong>Form von Künstlicher Intelligenz<strong>, die auf Basis von Vorgaben und vorhandenen Informationen neue Inhalte generiert. Es kommen KI-Verfahren und -Technologien wie trainierte neuronale Netzwerke, maschinelles Lernen (Deep Learning) und KI-Algorithmen zum Einsatz, um nach Anweisungen Texte, Bilder, Audio- und Videoinhalte, Programmcode, 3D-Modelle und anderes zu erzeugen.<p>"
+  }
+]]
